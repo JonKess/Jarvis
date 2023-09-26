@@ -8,7 +8,7 @@ import time
 
 
 # OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 #Initialize the text-to-speech engine
 engine = pyttsx3.init()
